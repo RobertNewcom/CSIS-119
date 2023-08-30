@@ -1,2 +1,2 @@
-Using BASH on Linux
+# Using BASH on Linux
 echo "Hello world"
