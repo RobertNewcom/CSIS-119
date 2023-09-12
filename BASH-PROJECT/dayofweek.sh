@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#Meets Requirement for Case extra credit
 # Asks user to input 1-7 for day of the week
 echo "Enter a number (1-7) to find out the day of the week:"
 
