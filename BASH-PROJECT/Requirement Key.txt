@@ -1,0 +1,3 @@
+Name Script (Echo,Two Variable,Comments)
+Day of week script (Case)
+
