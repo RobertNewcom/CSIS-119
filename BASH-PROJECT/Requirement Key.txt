@@ -1,3 +1,4 @@
 Name Script (Echo,Two Variable,Comments, secure input, and two operators)
 Day of week script (Case)
 Netstat script (grep|pipe,if statement,while looop, and function)
+isuseron script (if statement and for loop)
