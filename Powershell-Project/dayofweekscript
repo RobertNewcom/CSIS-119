@@ -1,0 +1,4 @@
+#pwrsh script
+
+  $day = "Wednesday"
+
