@@ -1,0 +1,16 @@
+There are established network connections:
+tcp        0      0 ip-172-31-49-37.e:35726 209.54.181.198:https    ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:49918 52.46.132.109:https     ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:58716 52.46.133.88:https      ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:38344 67.220.242.23:https     ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:33946 67.220.240.135:https    ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:50756 209.54.181.251:https    ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:36710 209.54.181.213:https    ESTABLISHED
+tcp        0      0 ip-172-31-49:febooti-aw 52.46.142.7:https       ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:53882 67.220.242.9:https      ESTABLISHED
+tcp        0      0 ip-172-31-49-37.ec2:ssh 206.190.205.177:50179   ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:34956 209.54.182.39:https     ESTABLISHED
+tcp        0      0 ip-172-31-49-37.ec2:ssh 206.190.205.177:50147   ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:36114 67.220.240.135:https    ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:58708 52.46.133.88:https      ESTABLISHED
+tcp        0      0 ip-172-31-49-37.e:59378 67.220.242.48:https     ESTABLISHED
