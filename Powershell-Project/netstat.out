@@ -1,0 +1,35 @@
+There are established network connections excluding 127.0.0.1 (Loopback):
+
+LocalAddress                        LocalPort RemoteAddress                       RemotePort State       AppliedSetting
+------------                        --------- -------------                       ---------- -----       --------------
+2605:a601:ad2c:b800:c905:458a:47... 60480     2600:1407:3c00:2c::1730:634e        443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 60472     2600:1404:6400:12::172f:335b        80         Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 60470     2620:149:a23:f000::203              80         Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 60438     2606:4700:4400::ac40:9267           443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 60409     2607:f8b0:4009:806::200e            443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 60320     2607:f8b0:402a:80a::2003            443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 60146     2600:1901:0:47fc::                  443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 59993     2606:4700:20::ac43:4503             443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 59823     2600:1901:0:47fc::                  443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 59791     2606:4700:20::ac43:4503             443        Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 58124     2606:50c0:8000::154                 443        Established Internet
+2605:a601:ad2c:b800:920:f029:cb5... 57392     2607:f8b0:4023:1401::bc             5228       Established Internet
+2605:a601:ad2c:b800:c905:458a:47... 56885     2603:1036:305:4015::2               443        Established Internet
+192.168.50.248                      63827     96.236.128.142                      32400      Established Internet
+192.168.50.248                      63247     45.33.119.35                        443        Established Internet
+192.168.50.248                      62760     17.57.144.102                       5223       Established Internet
+192.168.50.248                      60482     108.157.154.207                     80         Established Internet
+192.168.50.248                      60481     162.159.135.234                     443        Established Internet
+192.168.50.248                      60473     192.229.211.108                     80         Established Internet
+192.168.50.248                      60471     20.42.72.131                        443        Established Internet
+192.168.50.248                      60427     216.239.32.116                      443        Established Internet
+192.168.50.248                      60390     140.82.113.25                       443        Established Internet
+192.168.50.248                      60127     140.82.112.5                        443        Established Internet
+192.168.50.248                      60001     13.52.207.242                       443        Established Internet
+192.168.50.248                      59816     185.199.110.154                     443        Established Internet
+192.168.50.248                      59778     140.82.113.22                       443        Established Internet
+192.168.50.248                      59747     140.82.112.3                        443        Established Internet
+192.168.50.248                      58125     40.83.240.146                       443        Established Internet
+192.168.50.248                      58115     185.199.110.154                     443        Established Internet
+192.168.50.248                      54848     20.25.241.18                        443        Established Internet
+192.168.50.248                      50583     74.120.9.237                        443        Established Internet
