@@ -6,7 +6,7 @@ function check_connections()
   Get-NetTCPConnection | Where-Object { $_.State -eq "Established" -and $_.RemoteAddress -notlike "127.0.0.1" }
 }
   while ($true) 
-    {
+ {
   # set function to loop 
   $establishedconnections = check_connections
   # Check if there are established connections
@@ -21,6 +21,4 @@ function check_connections()
     }
   # Sleep for 10 seconds and try again
   start-sleep -seconds 10
-}
-
-
+ }
