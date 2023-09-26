@@ -1,6 +1,7 @@
 #Powershell meets requirements for if statement and for loop
 #CSIS-119 Robert Newcom 9/25/23
 # Get current user from windows security and apply to $user
+# Code ran on personal windows computer and is referencing my personal user id
 $user = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
 # Check for the user a maximum of 10 times
 $num_checks = 10
