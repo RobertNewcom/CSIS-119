@@ -1,0 +1,6 @@
+Please enter your First and Last Name:
+UserInput: Robert Newcom
+Please enter your age - secure input:
+UserInput: 40; displayed as **
+Your name is: Robert Newcom
+Your year of birth is: 1983
