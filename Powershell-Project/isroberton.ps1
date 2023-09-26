@@ -11,9 +11,12 @@ $interval = 10
 for ($i = 1; $i -le $num_checks; $i++) #-le is less
 {
     # Check if the user is logged in that is equal to ROBERTS-PC\bwg24 user, which is me
-    if ([System.Security.Principal.WindowsIdentity]::GetCurrent().Name -eq "ROBERTS-PC\bwg24" ) {
+    if ([System.Security.Principal.WindowsIdentity]::GetCurrent().Name -eq "ROBERTS-PC\bwg24" ) 
+    {
         Write-Host "Robert is logged in."
-    } else {
+    } 
+    else 
+    {
         Write-Host "Robert is not logged in."
     }
     start-sleep -seconds $interval
