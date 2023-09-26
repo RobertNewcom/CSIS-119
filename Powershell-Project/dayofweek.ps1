@@ -1,5 +1,5 @@
-#Powershell switch requirement
-#CSIS-119 Robert Newcom 9/24/23
+# Powershell switch requirement
+# CSIS-119 Robert Newcom 9/24/23
 # Enter which day of the week is class and user input
 $day = Read-Host "Which day of the week is scripting Class for Robert?: "
 
