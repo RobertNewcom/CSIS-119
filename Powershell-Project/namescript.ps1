@@ -1,5 +1,5 @@
-#Powershell requirements for Two variables, echo, comments, two operators, and sensitive input data
-#CSIS-119 Robert Newcom 9/24/23
+# Powershell requirements for Two variables, echo, comments, two operators, and sensitive input data
+# CSIS-119 Robert Newcom 9/24/23
 # Enters User Name
 Write-Host "Please enter your First and Last Name: "
 # User input into variables Fname and Lname for first and last name
