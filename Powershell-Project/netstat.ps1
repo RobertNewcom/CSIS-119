@@ -1,5 +1,5 @@
-#Powershell requirements for grep(bash) |pipe, if statement, while loop, function
-#CSIS-119 Robert Newcom 9/24/23
+# Powershell requirements for grep(bash) |pipe, if statement, while loop, function
+# CSIS-119 Robert Newcom 9/24/23
 # Function to verify established connections, removed 127.0.0.1 loopback
 function check_connections() 
 {
