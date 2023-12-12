@@ -1,3 +1,9 @@
+12/12/23
+Added .ouput file for expected results
+
+12/11/23
+Intial Release
+
 User needs a Marvel private and public key from developer.marvel.com
 
 Private and public key input does not display because of getpass input
