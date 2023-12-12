@@ -1,7 +1,7 @@
 12/12/23
 Added .ouput file for expected results
 Using sys.argv[] instead of getpass for user api key input
-
+run script using "MarvelAPIFinalProject.py marvel_public_key marvel_private_key" in python
 
 12/11/23
 Intial Release
