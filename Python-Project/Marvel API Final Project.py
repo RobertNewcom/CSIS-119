@@ -33,7 +33,7 @@ if data['data']['count'] == 1:
                 print('No Description')
 
 elif data['data']['count'] > 1:
-        print("Multiple Marvel Character found:")
+        print("Multiple Marvel Characters found:")
         for results in data['data']['results']:
             print(f"Character Name: {results['name']}")
             if 'description' in results and results['description']:
