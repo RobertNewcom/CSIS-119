@@ -1,6 +1,4 @@
-robertnewcom@Roberts-MacBook-Air ~ % /usr/bin/python3 /Users/robertnewcom/finalprojectcompleterobertnewcom.py
-Please input Marvel API Public Key: 
-Please input Marvel API Private Key: 
+PS C:\Users\bwg24> & C:/Users/bwg24/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/Users/bwg24/OneDrive/Desktop/School/Fall 2023 Classes/CSIS119/Final Project/terst.py" (omitted public and private keys)
 Choose a Marvel Character. (Ex. Hulk or Thanos): hulk
 Multiple Marvel Characters found:
 Character Name: Hulk
@@ -18,6 +16,6 @@ No Description
 Character Name: Hulk-dok
 No Description
 Character Name: Hulk/Bruce Banner (MAA)
-Description: Scientist Bruce Banner was transformed into the Hulk as a result to gamma radiation exposure. Over 8 feet tall and weighing 1,040 pounds, it's Hulk's strength that makes him the strongest hero in the Marvel Universe! Hulk smashes all threats that dare disturb the peace and friendship he has found in the Avengers. 
+Description: Scientist Bruce Banner was transformed into the Hulk as a result to gamma radiation exposure. Over 8 feet tall and weighing 1,040 pounds, it's Hulk's strength that makes him the strongest hero in the Marvel Universe! Hulk smashes all threats that dare disturb the peace and friendship he has found in the Avengers.
 Character Name: Hulkling
 No Description
