@@ -1,11 +1,13 @@
 from hashlib import md5 #import hash library 
 from requests import get #requests for http
 from datetime import datetime #import system time
-from getpass import getpass #private input
+import sys #import system parameters and functions for input of public and private key to connect to marvel api
  
 comp_time = datetime.now().strftime('%Y-%m-%d%H:%M:%S') #computer time
-pub_key = getpass("Please input Marvel API Public Key: ") #user public key input
-priv_key = getpass("Please input Marvel API Private Key: ") #user private key input
+
+#input sys.argv as follows MarvelAPIFinalProject.py "public key" "private key"
+pub_key = sys.argv[1] 
+priv_key = sys.argv[2]
  
 #hash function
 def hashed_params(): 
