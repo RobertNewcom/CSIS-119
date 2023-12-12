@@ -7,17 +7,17 @@ comp_time = datetime.now().strftime('%Y-%m-%d%H:%M:%S') #computer time
 pub_key = getpass("Please input Marvel API Public Key: ") #user public key input
 priv_key = getpass("Please input Marvel API Private Key: ") #user private key input
  
- #hash function
+#hash function
 def hashed_params(): 
     hash_md5 = md5()
     hash_md5.update(f'{comp_time}{priv_key}{pub_key}'.encode('utf-8'))
     hashed_parameter = hash_md5.hexdigest()
     return hashed_parameter
  
- #user request Marvel Character Input
+#user request Marvel Character Input
 char_name = input("Choose a Marvel Character. (Ex. Hulk or Thanos): ").lower()
  
- #structure of data to be received from the api
+#structure of data to be received from the api
 parameter = {'ts': comp_time, 'apikey': pub_key, 'hash': hashed_params(), 'nameStartsWith': char_name}
 results = get('https://gateway.marvel.com:443/v1/public/characters', params=parameter)
 data = results.json()
@@ -42,4 +42,4 @@ elif data['data']['count'] > 1:
                 print('No Description')
                 
 else:
-        print('Marvel Character not found, Try Again')
+        print('Marvel Character not found, Run Script Again')
