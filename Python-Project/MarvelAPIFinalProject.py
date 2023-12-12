@@ -5,7 +5,7 @@ import sys #import system parameters and functions for input of public and priva
  
 comp_time = datetime.now().strftime('%Y-%m-%d%H:%M:%S') #computer time
 
-#input sys.argv as follows MarvelAPIFinalProject.py "public key" "private key"
+#input sys.argv when running script as follows "MarvelAPIFinalProject.py marvel_public_key marvel_private_key"
 pub_key = sys.argv[1] 
 priv_key = sys.argv[2]
  
